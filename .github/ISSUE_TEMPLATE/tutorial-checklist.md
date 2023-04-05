@@ -1,19 +1,21 @@
 ---
-name: talk_checklist
-about: Talk Preparation Checklist
-title: "[Talk] <Topic>"
-labels: Talk
+name: Tutorial Checklist
+about: Tutorial Preparation Checklist
+title: "[Tutorial] <title>"
+labels: Tutorial
 assignees: ''
 
 ---
 
-## Talk Selection
-- [ ] Decide on a talk
-- [ ]  Get agreement from the speaker
+## Tutorial Selection
+- [ ] Decide on a topic
+- [ ] Get agreement from the speaker
 
 **Coordinate a date**
-- [ ]  Decide on date (we pick a few options to send to speaker)
-- [ ]  Gather information for the slide
+- [ ] Decide on date (we pick a few options to send to speaker)
+- [ ] Decide on a date for dry run (if necessary)
+- [ ] Gather information for the slide
+- [ ] Find tutors
 
 ## Zoom Prep
 - [ ]  Decide on Zoom registration questions (review previous questions)
@@ -27,12 +29,13 @@ assignees: ''
 **Send Advertisement**
 - [ ]  Email: 1 month
 - [ ]  Email: 2 weeks out
- - [ ]  Email: 3-4 days before
- - [ ]  Slack/Twitter: with first email, 
+- [ ]  Email: 3-4 days before
+- [ ]  Slack/Twitter: with first email, 
 - [ ]  Slack/Twitter: day before/day of
 
 ## Week of/before event prep
 - [ ]  Put together Zoom poll (for end of event)
+- [ ] Email registrants information about requirements (software to install, accounts to set up, etc.)
 - [ ]  Set up event-specific slack channels as needed (discussion channel)
 - [ ]  Add/remove people to #et-seminar-backchannel
 
