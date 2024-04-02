@@ -14,7 +14,7 @@ assignees: ''
 **Coordinate a date**
 - [ ] Decide on date (we pick a few options to send to speaker)
 - [ ] Decide on a date for dry run (if necessary)
-- [ ] Gather information for the slide
+- [ ] Gather information for the slide using [Google Form](https://forms.gle/mFnPnfXcC6uddYXZ7)
 - [ ] Find tutors
 
 ## Zoom Prep
