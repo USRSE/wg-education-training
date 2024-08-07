@@ -25,6 +25,7 @@ assignees: ''
 - [ ]  Put together event page on US-RSE site
 - [ ]  Craft email and short social media/slack message
 - [ ]  Add to newsletter if timing works out
+- [ ]  Request announcements through [US-RSE Email Announcement Request Form](https://docs.google.com/forms/d/1krNCADmZJlQ3nkHzEb_5rHUW-7X3I8jrtTj9BSazNKw/viewform?ts=65f35f7a&edit_requested=true)
 
 **Send Advertisement**
 - [ ]  Email: 1 month
