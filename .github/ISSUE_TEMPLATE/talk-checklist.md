@@ -13,7 +13,7 @@ assignees: ''
 
 **Coordinate a date**
 - [ ]  Decide on date (we pick a few options to send to speaker)
-- [ ]  Gather information for the slide
+- [ ]  Gather information for the slide using [Google Form](https://forms.gle/mFnPnfXcC6uddYXZ7)
 
 ## Zoom Prep
 - [ ]  Decide on Zoom registration questions (review previous questions)
